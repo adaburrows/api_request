@@ -3,6 +3,14 @@ api_request
 
 Simple library for defining API requests asynchronously. Creates readable requests using a fuild chainable interface. Detects the content type and decodes it accordingy (currently available for application/json and application/x-www-form-urlencoded). Also, if one specifies the content type, a JS object may be passed in and it will be converted to the proper format by the proper content encoder.
 
+Installing
+----------
+
+At your command propmt type:
+```
+npm install api_request
+```
+
 Usage
 -----
 
