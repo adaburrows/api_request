@@ -6,7 +6,7 @@ Simple library for defining API requests asynchronously. Creates readable reques
 Installing
 ----------
 
-At your command propmt type:
+At your command prompt type:
 ```
 npm install api_request
 ```
