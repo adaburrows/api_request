@@ -1,7 +1,7 @@
 {
   "name": "api_request",
   "description": "Wrapper for the http client to make beautiful, readable requests.",
-  "version": "0.5.0",
+  "version": "0.5.3",
   "homepage": "https://github.com/adaburrows/api_request",
   "keywords": ["api", "wrapper", "http_request"],
   "author": "Jill Burrows <jill@adaburrows.com>",
