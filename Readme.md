@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/adaburrows/api_request.png)](http://travis-ci.org/adaburrows/api_request)
 api_request
 ===========
 
